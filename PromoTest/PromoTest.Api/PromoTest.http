@@ -1,0 +1,6 @@
+@PromoTest_HostAddress = http://localhost:5293
+
+GET {{PromoTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
